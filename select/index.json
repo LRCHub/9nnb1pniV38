@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "流星のナミダ",
+  "base_artist": "CHiAKi KURiYAMA",
+  "createdAt": "2025-12-03T16:42:01.993393Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流星のナミダ",
+      "artist": "Chiaki Kuriyama",
+      "has_synced": true,
+      "path": "select/01_流星のナミダ_Chiaki_Kuriyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "流星のナミダ",
+      "artist": "CHiAKi KURiYAMA",
+      "has_synced": true,
+      "path": "select/02_流星のナミダ_CHiAKi_KURiYAMA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "流星のナミダ(Instrumental)",
+      "artist": "Chiaki Kuriyama",
+      "has_synced": false,
+      "path": "select/03_流星のナミダ(Instrumental)_Chiaki_Kuriyama.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星のナミダ",
+      "artist": "CHiAKi KURiYAMA",
+      "has_synced": false,
+      "path": "select/pl_01_流星のナミダ_CHiAKi_KURiYAMA.txt"
+    }
+  ]
+}
